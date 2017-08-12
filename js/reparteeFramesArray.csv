@@ -1,0 +1,117 @@
+frameID, width, description, finish, retail, contractor, wholesale, dealer, cost, img
+REP100000, 4.250, 1 1/4 X 4 1/4 Jefferson, Raw Poplar, $3.40, $3.07, $2.73, $2.52, $1.63, http://www.reparteegallery.com/ReparteeMoulding/REP100000.jpg
+REP100001, 4.250, 1 1/4 X 4 1/4 Jefferson, Heritage, $4.54, $4.11, $3.65, $3.37, $2.18, http://www.reparteegallery.com/ReparteeMoulding/REP100001.jpg
+REP100002, 4.250, 1 1/4 X 4 1/4 Jefferson, Classic Black, $4.54, $4.11, $3.65, $3.37, $2.18, http://www.reparteegallery.com/ReparteeMoulding/REP100002.jpg
+REP100111, 4.250, 1 1/4 X 4 1/4 Jefferson, Cappuccino, $4.54, $4.11, $3.65, $3.37, $2.18, http://www.reparteegallery.com/ReparteeMoulding/REP100111.jpg
+REP101000, 3.000, 1 X 3 Jefferson, Raw Poplar, $2.17, $1.96, $1.74, $1.61, $1.04, http://www.reparteegallery.com/ReparteeMoulding/REP101000.jpg
+REP101111, 3.000, 1 X 3 Jefferson, Cappuccino, $3.31, $3.00, $2.66, $2.46, $1.59, http://www.reparteegallery.com/ReparteeMoulding/REP101111.jpg
+REP102000, 4.250, 1 3/4 X 4 1/4 Jefferson, Raw Poplar, $4.44, $4.01, $3.56, $3.30, $2.13, http://www.reparteegallery.com/ReparteeMoulding/REP102000.jpg
+REP102111, 4.250, 1 3/4 X 4 1/4 Jefferson, Cappuccino, $5.59, $5.05, $4.49, $4.15, $2.68, http://www.reparteegallery.com/ReparteeMoulding/REP102111.jpg
+REP103000, 4.750, 1 1/4 X 4 3/4 Washington, Raw Poplar, $3.73, $3.37, $3.00, $2.77, $1.79, http://www.reparteegallery.com/ReparteeMoulding/REP103000.jpg
+REP103002, 4.750, 1 1/4 X 4 3/4 Washington, Classic Black, $4.88, $4.41, $3.92, $3.62, $2.34, http://www.reparteegallery.com/ReparteeMoulding/REP103002.jpg
+REP103111, 4.750, 1 1/4 X 4 3/4 Washington, Cappuccino, $4.88, $4.41, $3.92, $3.62, $2.34, http://www.reparteegallery.com/ReparteeMoulding/REP103111.jpg
+REP103112, 4.750, 1 1/4 X 4 3/4 Washington, Champagne, $4.88, $4.41, $3.92, $3.62, $2.34, http://www.reparteegallery.com/ReparteeMoulding/REP103112.jpg
+REP104000, 3.000, 1 X 3 Washington, Raw Poplar, $2.17, $1.96, $1.74, $1.61, $1.04, http://www.reparteegallery.com/ReparteeMoulding/REP104000.jpg
+REP104111, 3.000, 1 X 3 Washington, Cappuccino, $3.31, $3.00, $2.66, $2.46, $1.59, http://www.reparteegallery.com/ReparteeMoulding/REP104111.jpg
+REP105000, 2.000, 3/4 X 2 Washington, Raw Poplar, $1.35, $1.22, $1.09, $1.01, $0.65, http://www.reparteegallery.com/ReparteeMoulding/REP105000.jpg
+REP105003, 2.000, 3/4 X 2 Washington, Mahogany, $2.50, $2.26, $2.01, $1.86, $1.20, http://www.reparteegallery.com/ReparteeMoulding/REP105003.jpg
+REP105111, 2.000, 3/4 X 2 Washington, Cappuccino, $2.50, $2.26, $2.01, $1.86, $1.20, http://www.reparteegallery.com/ReparteeMoulding/REP105111.jpg
+REP106000, 2.500, 1 1/4 X 2 1/2 Hall, Raw Poplar, $2.19, $1.98, $1.76, $1.62, $1.05, http://www.reparteegallery.com/ReparteeMoulding/REP106000.jpg
+REP106111, 2.500, 1 1/4 X 2 1/2 Hall, Cappuccino, $3.33, $3.01, $2.68, $2.48, $1.60, http://www.reparteegallery.com/ReparteeMoulding/REP106111.jpg
+REP107000, 2.187, 1 1/4 X 2 3/16 Franklin, Raw Poplar, $1.96, $1.77, $1.57, $1.45, $0.94, http://www.reparteegallery.com/ReparteeMoulding/REP107000.jpg
+REP107002, 2.187, 1 1/4 X 2 3/16 Franklin, Classic Black, $3.11, $2.81, $2.49, $2.31, $1.49, http://www.reparteegallery.com/ReparteeMoulding/REP107002.jpg
+REP107111, 2.187, 1 1/4 X 2 3/16 Franklin, Cappuccino, $3.11, $2.81, $2.49, $2.31, $1.49, http://www.reparteegallery.com/ReparteeMoulding/REP107111.jpg
+REP108000, 3.500, 1 3/4 X 3 1/2 Franklin, Raw Poplar, $3.73, $3.37, $3.00, $2.77, $1.79, http://www.reparteegallery.com/ReparteeMoulding/REP108000.jpg
+REP108002, 3.500, 1 3/4 X 3 1/2 Franklin, Classic Black, $4.88, $4.41, $3.92, $3.62, $2.34, http://www.reparteegallery.com/ReparteeMoulding/REP108002.jpg
+REP108003, 3.500, 1 3/4 X 3 1/2 Franklin, Mahogany, $4.88, $4.41, $3.92, $3.62, $2.34, http://www.reparteegallery.com/ReparteeMoulding/REP108003.jpg
+REP108111, 3.500, 1 3/4 X 3 1/2 Franklin, Cappuccino, $4.88, $4.41, $3.92, $3.62, $2.34, http://www.reparteegallery.com/ReparteeMoulding/REP108111.jpg
+REP108113, 3.500, 1 3/4 X 3 1/2 Franklin, Teak, $4.88, $4.41, $3.92, $3.62, $2.34, http://www.reparteegallery.com/ReparteeMoulding/REP108113.jpg
+REP108114, 3.500, 1 3/4 X 3 1/2 Franklin, Pumpkin Spice, $4.88, $4.41, $3.92, $3.62, $2.34, http://www.reparteegallery.com/ReparteeMoulding/REP108114.jpg
+REP108125, 3.500, 1 3/4 X 3 1/2 Franklin, Antique White Brown Glaze, $5.46, $4.94, $4.39, $4.05, $2.62, http://www.reparteegallery.com/ReparteeMoulding/REP108125.jpg
+REP109000, 4.500, 2 1/4 X 4 1/2 Two-Piece Franklin, Raw Poplar, $5.84, $5.28, $4.69, $4.33, $2.80, http://www.reparteegallery.com/ReparteeMoulding/REP109000.jpg
+REP109111, 4.500, 2 1/4 X 4 1/2 Two-Piece Franklin, Cappuccino, $8.13, $7.35, $6.53, $6.04, $3.90, http://www.reparteegallery.com/ReparteeMoulding/REP109111.jpg
+REP110000, 3.000, 1 1/4 X 3 Colonial, Raw Poplar, $2.52, $2.28, $2.03, $1.87, $1.21, http://www.reparteegallery.com/ReparteeMoulding/REP110000.jpg
+REP110111, 3.000, 1 1/4 X 3 Colonial, Cappuccino, $3.67, $3.32, $2.95, $2.72, $1.76, http://www.reparteegallery.com/ReparteeMoulding/REP110111.jpg
+REP111000, 3.500, 1 1/4 X 3 1/2 Colonial, Raw Poplar, $2.88, $2.60, $2.31, $2.14, $1.38, http://www.reparteegallery.com/ReparteeMoulding/REP111000.jpg
+REP112000, 2.500, 1 X 2 1/2 Timeless, Raw Poplar, $1.88, $1.70, $1.51, $1.39, $0.90, http://www.reparteegallery.com/ReparteeMoulding/REP112000.jpg
+REP112111, 2.500, 1 X 2 1/2 Timeless, Cappuccino, $3.02, $2.73, $2.43, $2.24, $1.45, http://www.reparteegallery.com/ReparteeMoulding/REP112111.jpg
+REP113000, 3.500, 1 1/4 X 3 1/2 Timeless, Raw Poplar, $2.88, $2.60, $2.31, $2.14, $1.38, http://www.reparteegallery.com/ReparteeMoulding/REP113000.jpg
+REP113111, 3.500, 1 1/4 X 3 1/2 Timeless, Cappuccino, $4.02, $3.64, $3.23, $2.99, $1.93, http://www.reparteegallery.com/ReparteeMoulding/REP113111.jpg
+REP114000, 1.500, 1 5/16 X 1 1/2 Redford Cap, Raw Poplar, $1.50, $1.36, $1.21, $1.11, $0.72, http://www.reparteegallery.com/ReparteeMoulding/REP114000.jpg
+REP114111, 1.500, 1 5/16 X 1 1/2 Redford Cap, Cappuccino, $2.65, $2.39, $2.13, $1.97, $1.27, http://www.reparteegallery.com/ReparteeMoulding/REP114111.jpg
+REP115000, 3.500, 1 X 3 1/2 Redford, Raw Poplar, $2.44, $2.20, $1.96, $1.81, $1.17, http://www.reparteegallery.com/ReparteeMoulding/REP115000.jpg
+REP115111, 3.500, 1 X 3 1/2 Redford, Cappuccino, $3.58, $3.24, $2.88, $2.66, $1.72, http://www.reparteegallery.com/ReparteeMoulding/REP115111.jpg
+REP116000, 4.500, 1 5/16 X 4 1/2 Two-Piece Redford, Raw Poplar, $3.44, $3.11, $2.76, $2.55, $1.65, http://www.reparteegallery.com/ReparteeMoulding/REP116000.jpg
+REP116111, 4.500, 1 5/16 X 4 1/2 Two-Piece Redford, Cappuccino, $5.73, $5.18, $4.60, $4.26, $2.75, http://www.reparteegallery.com/ReparteeMoulding/REP116111.jpg
+REP117000, 1.812, 1 3/4 X 1 3/4 Adams Cap, Raw Poplar, $2.15, $1.94, $1.72, $1.59, $1.03, http://www.reparteegallery.com/ReparteeMoulding/REP117000.jpg
+REP117111, 1.812, 1 3/4 X 1 3/4 Adams Cap, Cappuccino, $3.29, $2.98, $2.64, $2.45, $1.58, http://www.reparteegallery.com/ReparteeMoulding/REP117111.jpg
+REP118000, 4.500, 1 3/4 X 4 1/2 Two-Piece Adams, Raw Poplar, $4.13, $3.73, $3.31, $3.06, $1.98, http://www.reparteegallery.com/ReparteeMoulding/REP118000.jpg
+REP118111, 4.500, 1 3/4 X 4 1/2 Two-Piece Adams, Cappuccino, $6.42, $5.80, $5.15, $4.77, $3.08, http://www.reparteegallery.com/ReparteeMoulding/REP118111.jpg
+REP119000, 1.000, 2 1/4 X 1 Truman Cap, Raw Poplar, $1.73, $1.56, $1.39, $1.28, $0.83, http://www.reparteegallery.com/ReparteeMoulding/REP119000.jpg
+REP119111, 1.000, 2 1/4 X 1 Truman Cap, Cappuccino, $2.88, $2.60, $2.31, $2.14, $1.38, http://www.reparteegallery.com/ReparteeMoulding/REP119111.jpg
+REP120000, 3.000, 2 1/4 X 3 Truman Two-Piece, Raw Poplar, $3.48, $3.15, $2.80, $2.58, $1.67, http://www.reparteegallery.com/ReparteeMoulding/REP120000.jpg
+REP120111, 3.000, 2 1/4 X 3 Truman Two-Piece, Cappuccino, $5.77, $5.22, $4.64, $4.29, $2.77, http://www.reparteegallery.com/ReparteeMoulding/REP120111.jpg
+REP121000, 3.000, 2 1/4 X 3 9/16 Eisenhower Two-Piece, Raw Poplar, $3.90, $3.52, $3.13, $2.89, $1.87, http://www.reparteegallery.com/ReparteeMoulding/REP121000.jpg
+REP121111, 3.000, 2 1/4 X 3 9/16 Eisenhower Two-Piece, Cappuccino, $6.19, $5.60, $4.97, $4.60, $2.97, http://www.reparteegallery.com/ReparteeMoulding/REP121111.jpg
+REP122000, 2.500, 1 1/4 X 2.5 Colonial, Raw Poplar, $2.19, $1.98, $1.76, $1.62, $1.05, http://www.reparteegallery.com/ReparteeMoulding/REP122000.jpg
+REP122111, 2.500, 1 1/4 X 2.5 Colonial, Cappuccino, $3.33, $3.01, $2.68, $2.48, $1.60, http://www.reparteegallery.com/ReparteeMoulding/REP122111.jpg
+REP123000, 3.500, 1 1/4 X 3 1/2 Roosevelt, Raw Poplar, $2.88, $2.60, $2.31, $2.14, $1.38, http://www.reparteegallery.com/ReparteeMoulding/REP123000.jpg
+REP123111, 3.500, 1 1/4 X 3 1/2 Roosevelt, Cappuccino, $4.02, $3.64, $3.23, $2.99, $1.93, http://www.reparteegallery.com/ReparteeMoulding/REP123111.jpg
+REP124000, 3.500, 1 1/4 X 3 1/2 Jackson, Raw Poplar, $2.88, $2.60, $2.31, $2.14, $1.38, http://www.reparteegallery.com/ReparteeMoulding/REP124000.jpg
+REP124111, 3.500, 1 1/4 X 3 1/2 Jackson, Cappuccino, $4.02, $3.64, $3.23, $2.99, $1.93, http://www.reparteegallery.com/ReparteeMoulding/REP124111.jpg
+REP125000, 3.500, 3/4 X 3 1/2 Hamilton, Raw Poplar, $2.04, $1.85, $1.64, $1.52, $0.98, http://www.reparteegallery.com/ReparteeMoulding/REP125000.jpg
+REP125111, 3.500, 3/4 X 3 1/2 Hamilton, Cappuccino, $3.19, $2.88, $2.56, $2.37, $1.53, http://www.reparteegallery.com/ReparteeMoulding/REP125111.jpg
+REP125113, 3.500, 3/4 X 3 1/2 Hamilton, Teak, $3.19, $2.88, $2.56, $2.37, $1.53, http://www.reparteegallery.com/ReparteeMoulding/REP125113.jpg
+REP126000, 3.625, 1 1/16 X 3 5/8 Hall, Raw Poplar, $2.52, $2.28, $2.03, $1.87, $1.21, http://www.reparteegallery.com/ReparteeMoulding/REP126000.jpg
+REP127000, 5.687, 1 3/8 X 5 11/16 Two-Piece Hall, Raw Poplar, $3.88, $3.50, $3.11, $2.88, $1.86, http://www.reparteegallery.com/ReparteeMoulding/REP127000.jpg
+REP127111, 5.687, 1 3/8 X 5 11/16 Two-Piece Hall, Cappuccino, $6.17, $5.58, $4.95, $4.58, $2.96, http://www.reparteegallery.com/ReparteeMoulding/REP127111.jpg
+REP128000, 2.625, 13/16 X 2 5/8 Hall, Raw Poplar, $1.65, $1.49, $1.32, $1.22, $0.79, http://www.reparteegallery.com/ReparteeMoulding/REP128000.jpg
+REP128002, 2.625, 13/16 X 2 5/8 Hall, Classic Black, $2.79, $2.52, $2.24, $2.07, $1.34, http://www.reparteegallery.com/ReparteeMoulding/REP128002.jpg
+REP128111, 2.625, 13/16 X 2 5/8 Hall, Cappuccino, $2.79, $2.52, $2.24, $2.07, $1.34, http://www.reparteegallery.com/ReparteeMoulding/REP128111.jpg
+REP129000, 2.000, 15/16 X 2 Hall, Raw Poplar, $1.60, $1.45, $1.29, $1.19, $0.77, http://www.reparteegallery.com/ReparteeMoulding/REP129000.jpg
+REP129111, 2.000, 15/16 X 2 Hall, Cappuccino, $2.75, $2.49, $2.21, $2.04, $1.32, http://www.reparteegallery.com/ReparteeMoulding/REP129111.jpg
+REP130000, 1.250, 3/4 X 1 1/4 Hamilton, Raw Poplar, $1.02, $0.92, $0.82, $0.76, $0.49, http://www.reparteegallery.com/ReparteeMoulding/REP130000.jpg
+REP130111, 1.250, 3/4 X 1 1/4 Hamilton, Cappuccino, $2.17, $1.96, $1.74, $1.61, $1.04, http://www.reparteegallery.com/ReparteeMoulding/REP130111.jpg
+REP130112, 1.250, 3/4 X 1 1/4 Hamilton, Champagne, $2.17, $1.96, $1.74, $1.61, $1.04, http://www.reparteegallery.com/ReparteeMoulding/REP130112.jpg
+REP131000, 5.250, 1 3/4 X 5 1/4 Lincoln, Raw Poplar, $5.38, $4.86, $4.32, $3.99, $2.58, http://www.reparteegallery.com/ReparteeMoulding/REP131000.jpg
+REP131111, 5.250, 1 3/4 X 5 1/4 Lincoln, Cappuccino, $6.52, $5.90, $5.24, $4.84, $3.13, http://www.reparteegallery.com/ReparteeMoulding/REP131111.jpg
+REP131120, 5.250, 1 3/4 X 5 1/4 Lincoln, Dover White Brown Glaze, $7.09, $6.41, $5.69, $5.26, $3.40, http://www.reparteegallery.com/ReparteeMoulding/REP131120.jpg
+REP131124, 5.250, 1 3/4 X 5 1/4 Lincoln, Love Gray Black Glaze, $7.09, $6.41, $5.69, $5.26, $3.40, http://www.reparteegallery.com/ReparteeMoulding/REP131124.jpg
+REP131127, 5.250, 1 3/4 X 5 1/4 Lincoln, Antique White Gray Glaze, $7.09, $6.41, $5.69, $5.26, $3.40, http://www.reparteegallery.com/ReparteeMoulding/REP131127.jpg
+REP131129, 5.250, 1 3/4 X 5 1/4 Lincoln, Love Gray with White Glaze, $7.09, $6.41, $5.69, $5.26, $3.40, http://www.reparteegallery.com/ReparteeMoulding/REP131129.jpg
+REP132000, 1.000, 3/4 X 1 Cleveland, Raw Poplar, $0.92, $0.83, $0.74, $0.68, $0.44, http://www.reparteegallery.com/ReparteeMoulding/REP132000.jpg
+REP133000, 3.250, 1 1/4 X 3 1/4 Lincoln, Raw Poplar, $2.71, $2.45, $2.18, $2.01, $1.30, http://www.reparteegallery.com/ReparteeMoulding/REP133000.jpg
+REP133111, 3.250, 1 1/4 X 3 1/4 Lincoln, Cappuccino, $3.86, $3.49, $3.10, $2.86, $1.85, http://www.reparteegallery.com/ReparteeMoulding/REP133111.jpg
+REP133118, 3.250, 1 1/4 X 3 1/4 Lincoln, Vandyke, $3.86, $3.49, $3.10, $2.86, $1.85, http://www.reparteegallery.com/ReparteeMoulding/REP133118.jpg
+REP134000, 2.000, 1 5/16 X 2 Hall Cap, Raw Poplar, $1.83, $1.66, $1.47, $1.36, $0.88, http://www.reparteegallery.com/ReparteeMoulding/REP134000.jpg
+REP135000, 4.750, 1 3/4 X 4 3/4 Two-Piece Grant, Raw Poplar, $4.09, $3.69, $3.28, $3.03, $1.96, http://www.reparteegallery.com/ReparteeMoulding/REP135000.jpg
+REP135111, 4.750, 1 3/4 X 4 3/4 Two-Piece Grant, Cappuccino, $6.38, $5.77, $5.12, $4.74, $3.06, http://www.reparteegallery.com/ReparteeMoulding/REP135111.jpg
+REP136000, 1.500, 1 5/16 X 3.5 Redford Two-Piece, Raw Poplar, $3.25, $2.94, $2.61, $2.41, $1.56, http://www.reparteegallery.com/ReparteeMoulding/REP136000.jpg
+REP137000, 1.750, 1 3/4  X 3/4 Clock Mold, Raw Poplar, $0.79, $0.72, $0.64, $0.59, $0.38, http://www.reparteegallery.com/ReparteeMoulding/REP137000.jpg
+REP137002, 1.750, 1 3/4  X 3/4 Clock Mold, Classic Black, $1.94, $1.75, $1.56, $1.44, $0.93, http://www.reparteegallery.com/ReparteeMoulding/REP137002.jpg
+REP138000, 2.250, 2 1/4 X 3/4 Clock Mold, Raw Poplar, $0.79, $0.72, $0.64, $0.59, $0.38, http://www.reparteegallery.com/ReparteeMoulding/REP138000.jpg
+REP139000, 1.250, 3/4 X 1 3/4 Hall Liner, Raw Poplar, $1.02, $0.92, $0.82, $0.76, $0.49, http://www.reparteegallery.com/ReparteeMoulding/REP139000.jpg
+REP139112, 1.250, 3/4 X 1 3/4 Hall Liner, Champagne, $2.17, $1.96, $1.74, $1.61, $1.04, http://www.reparteegallery.com/ReparteeMoulding/REP139112.jpg
+REP140000, 4.250, 1 1/4 X 4 1/4 Lincoln, Raw Poplar, $3.40, $3.07, $2.73, $2.52, $1.63, http://www.reparteegallery.com/ReparteeMoulding/REP140000.jpg
+REP140111, 4.250, 1 1/4 X 4 1/4 Lincoln, Cappuccino, $4.54, $4.11, $3.65, $3.37, $2.18, http://www.reparteegallery.com/ReparteeMoulding/REP140111.jpg
+REP140118, 4.250, 1 1/4 X 4 1/4 Lincoln, Vandyke, $4.54, $4.11, $3.65, $3.37, $2.18, http://www.reparteegallery.com/ReparteeMoulding/REP140118.jpg
+REP141000, 3.500, 1 1/16 X 3 1/2 Whistler, Raw Poplar, $2.44, $2.20, $1.96, $1.81, $1.17, http://www.reparteegallery.com/ReparteeMoulding/REP141000.jpg
+REP142000, 1.750, 3/4 X 1 3/4 SC Classic Style, Raw Poplar, $1.25, $1.13, $1.00, $0.93, $0.60, http://www.reparteegallery.com/ReparteeMoulding/REP142000.jpg
+REP142002, 1.750, 3/4 X 1 3/4 SC Classic Style, Classic Black, $2.40, $2.17, $1.92, $1.78, $1.15, http://www.reparteegallery.com/ReparteeMoulding/REP142002.jpg
+REP143000, 1.750, 3/4 X 1 3/4 Collegiate Mirror Style, Raw Poplar, $1.25, $1.13, $1.00, $0.93, $0.60, http://www.reparteegallery.com/ReparteeMoulding/REP143000.jpg
+REP143002, 1.750, 3/4 X 1 3/4 Collegiate Mirror Style, Classic Black, $2.40, $2.17, $1.92, $1.78, $1.15, http://www.reparteegallery.com/ReparteeMoulding/REP143002.jpg
+REP144000, 1.750, 3/4 X 1 3/4, Raw Poplar, $1.25, $1.13, $1.00, $0.93, $0.60, http://www.reparteegallery.com/ReparteeMoulding/REP144000.jpg
+REP145000, 1.750, 3/4 X 1 1/4 Liner, Raw Poplar, $1.02, $0.92, $0.82, $0.76, $0.49, http://www.reparteegallery.com/ReparteeMoulding/REP145000.jpg
+REP145112, 1.750, 3/4 X 1 1/4 Liner, Champagne, $2.17, $1.96, $1.74, $1.61, $1.04, http://www.reparteegallery.com/ReparteeMoulding/REP145112.jpg
+REP145116, 1.750, 3/4 X 1 1/4 Liner, Gold Fleck, $2.17, $1.96, $1.74, $1.61, $1.04, http://www.reparteegallery.com/ReparteeMoulding/REP145116.jpg
+REP146000, 1.750, 1 13/16 X 2 1/4 Franklin Cap, Raw Poplar, $2.56, $2.32, $2.06, $1.90, $1.23, http://www.reparteegallery.com/ReparteeMoulding/REP146000.jpg
+REP146111, 1.750, 1 13/16 X 2 1/4 Franklin Cap, Cappuccino, $3.71, $3.35, $2.98, $2.75, $1.78, http://www.reparteegallery.com/ReparteeMoulding/REP146111.jpg
+REP146118, 1.750, 1 13/16 X 2 1/4 Franklin Cap, Vandyke, $3.71, $3.35, $2.98, $2.75, $1.78, http://www.reparteegallery.com/ReparteeMoulding/REP146118.jpg
+REP147000, 2.250, 1 13/16 X 2 1/4 Gospel Art Kit Cap, Raw Poplar, $2.56, $2.32, $2.06, $1.90, $1.23, http://www.reparteegallery.com/ReparteeMoulding/REP147000.jpg
+REP148000, 1.250, 1 1/4 X 3 1/4 Shadow Box, Raw Poplar, $2.71, $2.45, $2.18, $2.01, $1.30, http://www.reparteegallery.com/ReparteeMoulding/REP148000.jpg
+REP149000, 1.250, 1 1/4 X 4 1/4 Shadow Box, Raw Poplar, $3.40, $3.07, $2.73, $2.52, $1.63, http://www.reparteegallery.com/ReparteeMoulding/REP149000.jpg
+REP149002, 1.250, 1 1/4 X 4 1/4 Shadow Box, Classic Black, $4.54, $4.11, $3.65, $3.37, $2.18, http://www.reparteegallery.com/ReparteeMoulding/REP149002.jpg
+REP150000, 2.250, 1 X 2 1/4 Acadamie, Raw Poplar, $1.73, $1.56, $1.39, $1.28, $0.83, http://www.reparteegallery.com/ReparteeMoulding/REP150000.jpg
+REP150133, 2.250, 1 X 2 1/4 Acadamie, Heather Gray, $2.88, $2.60, $2.31, $2.14, $1.38, http://www.reparteegallery.com/ReparteeMoulding/REP150133.jpg
+REP151000, 1.000, 3/4 X 1 Liner, Raw Poplar, $0.92, $0.83, $0.74, $0.68, $0.44, http://www.reparteegallery.com/ReparteeMoulding/REP151000.jpg
+REP151112, 1.000, 3/4 X 1 Liner, Champagne, $2.06, $1.87, $1.66, $1.53, $0.99, http://www.reparteegallery.com/ReparteeMoulding/REP151112.jpg
